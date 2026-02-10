@@ -35,4 +35,4 @@
     * Readme is like the homepage for a folder in github
     * Provides a description of what the project, file, etc. does
 ## Github
-- Github is like google drive for git. It allows you to remotely store repositories, and 
+- Github is like google drive for git. It allows you to remotely store repositories
