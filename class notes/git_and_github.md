@@ -1,8 +1,9 @@
 # Git and Github
 
 ## Git
+
 - Git is a protocol, there is no one program that *is* git
-- Most programs use libraries from GitSCM and wrap them. 
+- Most programs use libraries from GitSCM and wrap them.
 ## Source control
 ### What is source control?
 - Think of it as the time dimension of files
