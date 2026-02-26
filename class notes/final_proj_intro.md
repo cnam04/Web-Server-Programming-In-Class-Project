@@ -46,6 +46,7 @@
         * Regular: what you need to run your app
         * Dev: what you need to progrma and compile
         * Peer: dependencies that are necessary, but can't be downloaded by NPM
+        * It's useful to add types to devDependencies along with any JS dependency
 - Dependency format in pakcage.json: 
     * "name": "major.minor.patch"
     * patch -> doesnt change functionality, just fixes
